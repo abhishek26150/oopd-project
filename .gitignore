@@ -1,0 +1,5 @@
+acaderp
+src/acaderp
+*.o
+*.out
+.DS_Store
